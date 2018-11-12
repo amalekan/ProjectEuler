@@ -1,3 +1,4 @@
+twice_squares = [2*(i**2) for i in range(1,5000)]
 from math import sqrt
 primes = [2]
 def isPrime(n):
